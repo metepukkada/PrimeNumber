@@ -1,0 +1,1 @@
+# Girilen Sayıya Kadar Olan Tüm Asal Sayıları Bulan Program.
