@@ -4,11 +4,11 @@ public class PrimeNumber {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n;
-        String numbers = "";
         System.out.print("Bir Sayı Giriniz: ");
         n = scanner.nextInt();
 
         String asalSayilar = "";
+
         for (int i = 1; i <= n; i++) {
             int sayac = 0;
             for (int j = i; j >= 1; j--) {
